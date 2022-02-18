@@ -1,5 +1,10 @@
 {
-	"profile": {},
+	"profile": [{
+		"id": 1,
+		"name": "laura schellen",
+		"role": "Supplier",
+		"profileImage": "http://placekitten.com/200/300"
+	}],
 	"trades": [{
 			"id": 1,
 			"name": "Yelserp Scott",
