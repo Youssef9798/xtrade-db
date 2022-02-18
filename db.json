@@ -67,6 +67,30 @@
 			"deliveryDate": "yesterday",
 			"status": "closed",
 			"requiredAction": null
+		},
+		{
+			"id": 6,
+			"name": "maye kiss",
+			"email": "mayekiss@ymail.com",
+			"oldCurrency": "NGN",
+			"newCurrency": "USD",
+			"rate": "1.34",
+			"tradeAmount": 15000000.00,
+			"deliveryDate": "yesterday",
+			"status": "closed",
+			"requiredAction": null
+		},
+		{
+			"id": 7,
+			"name": "maye kiss",
+			"email": "mayekiss@ymail.com",
+			"oldCurrency": "NGN",
+			"newCurrency": "USD",
+			"rate": "1.34",
+			"tradeAmount": 15000000.00,
+			"deliveryDate": "yesterday",
+			"status": "closed",
+			"requiredAction": null
 		}
 	],
 	"profile": {
