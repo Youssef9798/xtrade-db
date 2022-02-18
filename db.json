@@ -1,5 +1,12 @@
 {
-	"trades": [{
+	"total": 1000,
+	"per_page": 5,
+	"current_page": 1,
+	"last_page": 200,
+	"from": 1,
+	"to": 5,
+	"trades": [
+		{
 			"id": 1,
 			"name": "Yelserp Scott",
 			"email": "yelserpoj@ymail.com",
