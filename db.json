@@ -1,6 +1,8 @@
-[
-  {
-    "id": "1", 
+{
+  "profile": {},
+  "trades": [
+    {
+    "id": 1, 
     "name": "Yelserp Scott", 
     "email": "yelserpoj@ymail.com", 
     "oldCurrency": "NGN", 
@@ -12,7 +14,7 @@
     "requiredAction": "capture payment details"
   },
   {
-    "id": "2", 
+    "id": 2, 
     "name": "kasali rufai", 
     "email": "kalali@ymail.com", 
     "oldCurrency": "NGN", 
@@ -24,7 +26,7 @@
     "requiredAction": "upload proof of payment"
   },
   {
-    "id": "3", 
+    "id": 3, 
     "name": "russel west", 
     "email": "russel@ymail.com", 
     "oldCurrency": "NGN", 
@@ -36,7 +38,7 @@
     "requiredAction": null
   },
   {
-    "id": "4", 
+    "id": 4, 
     "name": "Onto wanya", 
     "email": "wetshdk@ymail.com", 
     "oldCurrency": "NGN", 
@@ -48,7 +50,7 @@
     "requiredAction": null
   },
   {
-    "id": "5", 
+    "id": 5, 
     "name": "maye kiss", 
     "email": "mayekiss@ymail.com", 
     "oldCurrency": "NGN", 
@@ -59,4 +61,5 @@
     "status": "closed", 
     "requiredAction": null
   }
-]
+ ]
+}
